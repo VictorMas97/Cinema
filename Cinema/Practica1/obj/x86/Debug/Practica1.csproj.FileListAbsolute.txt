@@ -1,0 +1,44 @@
+c:\documents and settings\oscar\mis documentos\visual studio 2010\Projects\Practica1\Practica1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\oscar\mis documentos\visual studio 2010\Projects\Practica1\Practica1\bin\Debug\Practica1.exe
+c:\documents and settings\oscar\mis documentos\visual studio 2010\Projects\Practica1\Practica1\bin\Debug\Practica1.pdb
+c:\documents and settings\oscar\mis documentos\visual studio 2010\Projects\Practica1\Practica1\obj\x86\Debug\Practica1.exe
+c:\documents and settings\oscar\mis documentos\visual studio 2010\Projects\Practica1\Practica1\obj\x86\Debug\Practica1.pdb
+\\vmware-host\Shared Folders\temp\Borrar\ESNE\POO\Practica1\Practica1\obj\x86\Debug\Practica1.exe
+\\vmware-host\Shared Folders\temp\Borrar\ESNE\POO\Practica1\Practica1\obj\x86\Debug\Practica1.pdb
+\\vmware-host\Shared Folders\temp\Borrar\ESNE\POO\Practica1\Practica1\bin\Debug\Practica1.exe
+\\vmware-host\Shared Folders\temp\Borrar\ESNE\POO\Practica1\Practica1\bin\Debug\Practica1.pdb
+\\vmware-host\Shared Folders\temp\Borrar\ESNE\POO\Practica1\Practica1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Practica1\Practica1\obj\x86\Debug\Practica1.exe
+C:\Documents and Settings\Administrador\Escritorio\Practica1\Practica1\obj\x86\Debug\Practica1.pdb
+C:\Documents and Settings\Administrador\Escritorio\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Documents and Settings\Administrador\Escritorio\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Documents and Settings\Administrador\Escritorio\Practica1\Practica1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Practica1 - Alumno\Practica1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\1º Cuatrimestre\Programación\C#\Practicas\Practica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.csprojResolveAssemblyReference.cache
+G:\1º Cuatrimestre\Programación\C#\Practicas\Practica 1\Practica1 - Alumno\Practica1\bin\Debug\Practica1.exe
+G:\1º Cuatrimestre\Programación\C#\Practicas\Practica 1\Practica1 - Alumno\Practica1\bin\Debug\Practica1.pdb
+G:\1º Cuatrimestre\Programación\C#\Practicas\Practica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.exe
+G:\1º Cuatrimestre\Programación\C#\Practicas\Practica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.pdb
+H:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.exe
+H:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.pdb
+H:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\bin\Debug\Practica1.exe
+H:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\bin\Debug\Practica1.pdb
+H:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.csprojResolveAssemblyReference.cache
+G:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.exe
+G:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.pdb
+G:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\bin\Debug\Practica1.exe
+G:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\bin\Debug\Practica1.pdb
+G:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.csprojResolveAssemblyReference.cache
+C:\Users\Víctor\Desktop\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.exe
+C:\Users\Víctor\Desktop\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.pdb
+C:\Users\Víctor\Desktop\Práctica 1\Practica1 - Alumno\Practica1\bin\Debug\Practica1.exe
+C:\Users\Víctor\Desktop\Práctica 1\Practica1 - Alumno\Practica1\bin\Debug\Practica1.pdb
+C:\Users\Víctor\Desktop\Práctica 1\Practica1 - Alumno\Practica1\obj\x86\Debug\Practica1.csprojResolveAssemblyReference.cache
+H:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Cine\Practica1\obj\x86\Debug\Practica1.exe
+H:\1º Cuatrimestre\Programación\C#\Prácticas\Práctica 1\Practica1 - Cine\Practica1\obj\x86\Debug\Practica1.pdb
+C:\Users\Alumno\Downloads\Cinema\Practica1\bin\Debug\Practica1.exe
+C:\Users\Alumno\Downloads\Cinema\Practica1\bin\Debug\Practica1.pdb
+C:\Users\Alumno\Downloads\Cinema\Practica1\obj\x86\Debug\Practica1.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Downloads\Cinema\Practica1\obj\x86\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\Cinema\Practica1\obj\x86\Debug\Practica1.exe
+C:\Users\Alumno\Downloads\Cinema\Practica1\obj\x86\Debug\Practica1.pdb
